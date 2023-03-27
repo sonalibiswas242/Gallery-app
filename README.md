@@ -1,5 +1,5 @@
 # Gallery-app
-This is a React Native Gallery Application
+This is a React Native Gallery Application made using Flickr API
 
 <p>
 <table>
