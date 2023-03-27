@@ -1,5 +1,5 @@
 # Gallery-app
-This is a React Native Gallery Applicatio
+This is a React Native Gallery Application
 
 <p>
 <table>
