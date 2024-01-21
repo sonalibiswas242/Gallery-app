@@ -2,7 +2,7 @@
   "expo": {
     "name": "Gallery App",
     "slug": "Gallery-app",
-    "description" : "This is a React Native Gallery Application",
+    "description": "This is a React Native Gallery Application",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,10 +22,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sonalibiswas242.Galleryapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "49bfb299-1c7f-4821-8323-e1642f01db0a"
+      }
     }
   }
 }
